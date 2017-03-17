@@ -1,0 +1,19 @@
+{
+    "projectName": "MYDEVORG01",
+    "username": "pidikiti_testorg@demo.com",
+    "id": "d0ca2690-0b14-11e7-a8c1-a396e3c7d3dc",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://eu11.salesforce.com",
+    "workspace": "/Users/praneelpidikiti/Documents/MavenMateWorkspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomLabels",
+        "CustomObject",
+        "Workflow"
+    ]
+}
